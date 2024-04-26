@@ -1,0 +1,12 @@
+{
+  "31337": {
+    "Certificate": {
+      "address": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9"
+    }
+  },
+  "11155111": {
+    "Certificate": {
+      "address": "0x9583F9f0605337B748fB13FA273C0aCaAdca9025"
+    }
+  }
+}
